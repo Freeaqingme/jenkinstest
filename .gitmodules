@@ -1,0 +1,6 @@
+[submodule "library/Zend"]
+	path = library/Zend
+	url = git@github.com:Enrise/Zend.git
+[submodule "library/Glitch"]
+	path = library/Glitch
+	url = git@github.com:Enrise/Glitch_Lib.git
